@@ -8,6 +8,13 @@ body{
     font-size: 35px;
     margin:0;
 }
+
+header{
+    background-size: cover;
+    background-image: url("../images/evilmorty.jpg");
+   height: 800px;
+}
+
 nav{
     align-items: center;
     background-color: darkgoldenrod;
